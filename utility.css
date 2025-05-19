@@ -1,0 +1,37 @@
+.border{
+    border: 2px solid black;
+    margin: 3px;
+}
+.flex{
+    display: flex;
+    
+}
+.justify-center{
+    justify-content: center;
+}
+.align-center{
+    align-items: center;
+}
+.bottom{
+    margin: 20px;
+    display: flex;
+    
+
+}
+
+button{
+    color: white;
+   font-size: large;
+   background-color:black;
+   border: 0;
+   border-color: white;
+   border-radius: 60px;
+   margin-right: 20px;
+   height: 50pxpx;
+   width: 120px;
+   cursor: pointer;
+}
+.up button{
+    height: 50px;
+    margin-top: 15px;
+}
